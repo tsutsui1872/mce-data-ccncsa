@@ -7,7 +7,7 @@ Other datasets are placed in [mce-data-ccsa](https://github.com/tsutsui1872/mce-
 |:-|
 | **CNRM-CM6-1** (Voldoire, 2018a, 2018b, 2018c)<br>CNRM (Centre National de Recherches Meteorologiques, Toulouse 31057, France), CERFACS (Centre Europeen de Recherche et de Formation Avancee en Calcul Scientifique, Toulouse 31057, France) |
 | **CNRM-ESM2-1** (Seferian, 2018a, 2018b, 2018c)<br>CNRM (Centre National de Recherches Meteorologiques, Toulouse 31057, France), CERFACS (Centre Europeen de Recherche et de Formation Avancee en Calcul Scientifique, Toulouse 31057, France) |
-| IPSL-CM6A-LR (Boucher et al., 2018a, 2018b, 2018c)<br>Institut Pierre Simon Laplace, Paris 75252, France | 
+| **IPSL-CM6A-LR** (Boucher et al., 2018a, 2018b, 2018c)<br>Institut Pierre Simon Laplace, Paris 75252, France | 
 
 
 References
