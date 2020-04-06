@@ -2,23 +2,12 @@ This directory contains data files for the following datasets distributed on the
 
 Other datasets are placed in [mce-data-ccsa](https://github.com/tsutsui1872/mce-data-ccsa). More data will be added in the future.
 
-| Name | CNRM-CM6-1 |
-|:-|:-|
-| Project | CMIP6 |
-| Institution | CNRM (Centre National de Recherches Meteorologiques, Toulouse 31057, France), CERFACS (Centre Europeen de Recherche et de Formation Avancee en Calcul Scientifique, Toulouse 31057, France) |
-| Reference | Voldoire (2018a, 2018b, 2018c) |
 
-| Name | CNRM-ESM2-1 |
-|:-|:-|
-| Project | CMIP6 |
-| Institution | CNRM (Centre National de Recherches Meteorologiques, Toulouse 31057, France), CERFACS (Centre Europeen de Recherche et de Formation Avancee en Calcul Scientifique, Toulouse 31057, France) |
-| Reference | Seferian (2018a, 2018b, 2018c) |
-
-| Name | IPSL-CM6A-LR |
-|:-|:-|
-| Project | CMIP6 |
-| Institution | Institut Pierre Simon Laplace, Paris 75252, France |
-| Reference | Boucher et al. (2018a, 2018b, 2018c) |
+| CMIP6 models |
+|:-|
+| **CNRM-CM6-1** (Voldoire, 2018a, 2018b, 2018c)<br>CNRM (Centre National de Recherches Meteorologiques, Toulouse 31057, France), CERFACS (Centre Europeen de Recherche et de Formation Avancee en Calcul Scientifique, Toulouse 31057, France) |
+| **CNRM-ESM2-1** (Seferian, 2018a, 2018b, 2018c)<br>CNRM (Centre National de Recherches Meteorologiques, Toulouse 31057, France), CERFACS (Centre Europeen de Recherche et de Formation Avancee en Calcul Scientifique, Toulouse 31057, France) |
+| IPSL-CM6A-LR (Boucher et al., 2018a, 2018b, 2018c)<br>Institut Pierre Simon Laplace, Paris 75252, France | 
 
 
 References
@@ -32,3 +21,4 @@ References
 - Voldoire, A. (2018a). CMIP6 simulations of the CNRM-CERFACS based on CNRM-CM6-1 model for CMIP experiment 1pctCO2. Version v20180626. Earth System Grid Federation. https://doi.org/10.22033/ESGF/CMIP6.3712
 - Voldoire, A. (2018b). CMIP6 simulations of the CNRM-CERFACS based on CNRM-CM6-1 model for CMIP experiment abrupt-4xCO2. Version v20180705. Earth System Grid Federation. https://doi.org/10.22033/ESGF/CMIP6.3916
 - Voldoire, A. (2018c). CMIP6 simulations of the CNRM-CERFACS based on CNRM-CM6-1 model for CMIP experiment piControl. Version v20180814. Earth System Grid Federation. https://doi.org/10.22033/ESGF/CMIP6.4163
+
